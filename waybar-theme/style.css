@@ -1,4 +1,12 @@
-@import "../omarchy/current/theme/waybar.css";
+/* @import "../omarchy/current/theme/waybar.css"; */
+/* Note: The above import only works after theme installation via omarchy-theme-install */
+/* It imports GTK theme variables. Fallback values are defined below. */
+
+/* Fallback theme colors (used when import is unavailable) */
+@define-color theme_bg_color #1c1213;
+@define-color theme_fg_color #e3a68c;
+@define-color theme_selected_bg_color #a63650;
+@define-color theme_selected_fg_color #e3a68c;
 
 @define-color theme_bg @theme_bg_color;
 @define-color theme_fg @theme_fg_color;

@@ -85,6 +85,7 @@
     "format": "{}°F",
     "tooltip": true,
     "interval": 3600,
+    "exec-if": "which wttrbar",
     "exec": "wttrbar --location \"Duvall, WA\" --main-indicator=temp_F",
     "return-type": "json"
   },
@@ -110,7 +111,7 @@
         "today": "<span color='#ff4f73'><b>{}</b></span>"
       }
     },
-    "on-click-right": "~/.local/share/omarchy/bin/omarchy-cmd-tzupdate"
+    "on-click-right": "omarchy-cmd-tzupdate"
   },
   "network": {
     "format-icons": [
@@ -239,6 +240,7 @@
   },
   "custom/screenrecording-indicator": {
     "on-click": "omarchy-cmd-screenrecord",
+    "exec-if": "test -n \"$OMARCHY_PATH\" && test -f \"$OMARCHY_PATH/default/waybar/indicators/screen-recording.sh\"",
     "exec": "$OMARCHY_PATH/default/waybar/indicators/screen-recording.sh",
     "signal": 8,
     "return-type": "json"
