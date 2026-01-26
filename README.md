@@ -1,6 +1,6 @@
-# Omarchy Caroline Skyline Theme
+# Omarchy REDDCS
 
-Caroline Skyline blends warm clay browns, dusty rose, and ember accents into a cozy, late-night city glow with soft contrast.
+
 
 ## Preview
 
@@ -11,7 +11,7 @@ Caroline Skyline blends warm clay browns, dusty rose, and ember accents into a c
 Use the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/OldJobobo/omarchy-caroline-skyline-theme
+omarchy-theme-install https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS
 ```
 
 ## What's included
@@ -37,4 +37,4 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-caroline-skyline-them
 
 ## Attribution
 
-- Caroline palette by ed (https://codeberg.org/ed)
+
