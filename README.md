@@ -11,7 +11,7 @@ OMARCHY-REDDCS blends warm clay browns, dusty rose, and ember accents into a coz
 Use the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/OldJobobo/omarchy-REDDCS-theme
+omarchy-theme-install https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS
 ```
 
 ## What's included
@@ -37,5 +37,4 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-REDDCS-theme
 
 ## Attribution
 
-- Based on Caroline palette by ed (https://codeberg.org/ed)
 - Theme customization by REDDCS
