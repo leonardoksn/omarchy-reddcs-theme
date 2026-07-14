@@ -14,9 +14,9 @@ window#waybar {
 }
 
 /* Make all modules transparent so only the bar container has the background.
-   Without this, the default omarchy style applies a solid @background to
-   every element, creating darker blocks inside the semi-transparent bar. */
-* {
+   Uses #waybar * for higher specificity than the default * selector, which
+   would otherwise apply a solid @background to every element. */
+#waybar * {
   background-color: transparent;
 }
 
