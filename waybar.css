@@ -10,4 +10,27 @@ window#waybar {
   margin: 4px 8px;
   border-radius: 12px;
   background-color: alpha(@background, 0.85);
+  padding: 4px 0;
+}
+
+/* Ensure modules have enough vertical breathing room */
+#workspaces button,
+#tray,
+#clock,
+#battery,
+#pulseaudio,
+#network,
+#bluetooth,
+#backlight,
+#memory,
+#cpu,
+#custom-omarchy,
+#custom-weather,
+#custom-update,
+#idle_inhibitor,
+#custom-expand-icon,
+#custom-screenrecording-indicator,
+#custom-updatespacman {
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
