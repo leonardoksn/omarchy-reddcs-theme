@@ -32,6 +32,22 @@ white   = "#e3a68c"
 text   = "#1c1213"
 cursor = "#a87569"
 
+[colors.vi_mode_cursor]
+text   = "#1c1213"
+cursor = "#a87569"
+
+[colors.search.matches]
+foreground = "#1c1213"
+background = "#f28171"
+
+[colors.search.focused_match]
+foreground = "#1c1213"
+background = "#c24f57"
+
+[colors.footer_bar]
+foreground = "#1c1213"
+background = "#e3a68c"
+
 [colors.selection]
 text = "#f28171"
 background = "#684c59"
