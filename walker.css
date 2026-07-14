@@ -1,9 +1,9 @@
-@define-color selected-text #684c59;
-@define-color text #a87569;
-@define-color base #1c1213;
-@define-color border #563837;
-@define-color foreground #a87569;
-@define-color background #1c1213;
+@define-color selected-text #6c4ca0;
+@define-color text #7565a0;
+@define-color base #14101c;
+@define-color border #322847;
+@define-color foreground #7565a0;
+@define-color background #14101c;
 
 window {
     background-color: transparent;

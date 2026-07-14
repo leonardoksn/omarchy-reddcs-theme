@@ -1,5 +1,5 @@
-@define-color foreground #e3a68c;
-@define-color background #1c1213;
+@define-color foreground #b8a3e0;
+@define-color background #14101c;
 
 window#waybar {
   background: transparent;

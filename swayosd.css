@@ -1,8 +1,8 @@
-@define-color background-color #1c1213;
-@define-color border-color #563837;
-@define-color label #a87569;
-@define-color image #a87569;
-@define-color progress #806c61;
+@define-color background-color #14101c;
+@define-color border-color #322847;
+@define-color label #7565a0;
+@define-color image #7565a0;
+@define-color progress #7c6ca0;
 
 /* Cancel out Omarchy settings */
 window:not(:backdrop),
