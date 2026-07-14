@@ -11,7 +11,7 @@
 Use the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS
+omarchy-theme-install https://github.com/cleitontrails/omarchy-reddcs-theme
 ```
 
 ## What's included
@@ -26,14 +26,6 @@ omarchy-theme-install https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS
 - Apps/UI: GTK (`gtk.css`), Chromium (`chromium.theme`), Wofi (`wofi.css`), Walker (`walker.css`)
 - System tools: btop (`btop.theme`), cava (`cava_theme`), Mako (`mako.ini`), SwayOSD (`swayosd.css`)
 - Extras: Steam (`steam.css`), Vencord (`vencord.theme.css`), Aether overrides (`aether.override.css`, `aether.zed.json`), icons pointer (`icons.theme`), Neovim (`neovim.lua`)
-
-## Wallpapers
-
-<table>
-  <tr>
-    <td><img src="backgrounds/anime-girl-dragon-tattoo-4k-wallpaper-uhdpaper.com-628@0@j.jpg" width="220" alt="anime-girl-dragon-tattoo"></td>
-  </tr>
-</table>
 
 ## Attribution
 
