@@ -13,7 +13,6 @@ window {
     box-shadow: none;
 }
 
-/* Walker Window Border */
 window .box-wrapper {
     border-radius: 16px;
     border: 2px solid alpha(@border, 0.7);  

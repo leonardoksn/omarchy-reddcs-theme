@@ -1,7 +1,6 @@
 @define-color foreground #e3a68c;
 @define-color background #1c1213;
 
-/* Floating bar: transparent window with margin so it doesn't touch the screen edge */
 window#waybar {
   background: transparent;
 }
@@ -13,14 +12,10 @@ window#waybar {
   padding: 4px 0;
 }
 
-/* Make all modules transparent so only the bar container has the background.
-   Uses #waybar * for higher specificity than the default * selector, which
-   would otherwise apply a solid @background to every element. */
 #waybar * {
   background-color: transparent;
 }
 
-/* Ensure modules have enough vertical breathing room */
 #workspaces button,
 #tray,
 #clock,
