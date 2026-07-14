@@ -17,13 +17,13 @@ omarchy-theme-install https://github.com/cleitontrails/omarchy-reddcs-theme
 ## What's included
 
 - **Hyprland**: rules and opacity tuning (`hyprland.conf`), lock screen styling (`hyprlock.conf`)
-- **Waybar**: theme bundle (`waybar-theme/`)
+- **Waybar**: bar styling (`waybar.css`)
 - **Palettes**: terminal palette (`colors.toml`), base16 palette (`caroline.yaml`)
 - **Terminals**: Kitty (`kitty.conf`), Alacritty (`alacritty.toml`), Ghostty (`ghostty.conf`), Warp (`warp.yaml`)
 - **Shell/tools**: Fish colors (`colors.fish`), fzf (`fzf.fish`)
-- **Apps/UI**: GTK (`gtk.css`), Chromium (`chromium.theme`), Wofi (`wofi.css`), Walker (`walker.css`)
+- **Apps/UI**: GTK (`gtk.css`), Chromium (`chromium.theme`), Walker (`walker.css`)
 - **System tools**: btop (`btop.theme`), cava (`cava_theme`), Mako (`mako.ini`), SwayOSD (`swayosd.css`)
-- **Extras**: Steam (`steam.css`), Vencord (`vencord.theme.css`), Aether overrides (`aether.override.css`, `aether.zed.json`), icons pointer (`icons.theme`), Neovim (`neovim.lua`)
+- **Extras**: Steam (`steam.css`), Vencord (`vencord.theme.css`), Aether overrides (`aether.override.css`, `aether.zed.json`), Zed theme (`aether.zed.json`), keyboard RGB (`keyboard.rgb`), icons pointer (`icons.theme`), Neovim (`neovim.lua`), VS Code (`vscode.json`)
 
 ## Credits
 
