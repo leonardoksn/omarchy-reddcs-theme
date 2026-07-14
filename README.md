@@ -11,7 +11,7 @@ A dark, warm-toned theme for [Omarchy](https://github.com/omarchy/omarchy) — c
 Use the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/cleitontrails/omarchy-reddcs-theme
+omarchy-theme-install https://github.com/leonardoksn/omarchy-reddcs-theme
 ```
 
 ## What's included
@@ -27,6 +27,6 @@ omarchy-theme-install https://github.com/cleitontrails/omarchy-reddcs-theme
 
 ## Credits
 
-This theme is a fork of [LINUX-OMARCHY-REDDCS](https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS), created by **[mohamedredachakir](https://github.com/mohamedredachakir)**.
+This theme is based on [omarchy-reddcs-theme](https://github.com/cleitontrails/omarchy-reddcs-theme) by **[cleitontrails](https://github.com/cleitontrails)**, which in turn was referenced from [LINUX-OMARCHY-REDDCS](https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS), created by **[mohamedredachakir](https://github.com/mohamedredachakir)**.
 
 The base16 palette is derived from [caroline](https://codeberg.org/ed/), authored by **ed**.
