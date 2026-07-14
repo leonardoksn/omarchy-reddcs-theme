@@ -25,15 +25,15 @@
 
 	/* Window */
 	--adw-window-bg-rgb: 28, 18, 19 !important;
-	--adw-window-fg-rgb: 168, 117, 105 !important;
+	--adw-window-fg-rgb: 227, 166, 140 !important;
 
 	/* Views - e.g. text view or tree view */
 	--adw-view-bg-rgb: 28, 18, 19 !important;
-	--adw-view-fg-rgb: 168, 117, 105 !important;
+	--adw-view-fg-rgb: 227, 166, 140 !important;
 
 	/* Header bar, search bar, tab bar */
 	--adw-headerbar-bg-rgb: 28, 18, 19 !important;
-	--adw-headerbar-fg-rgb: 168, 117, 105 !important;
+	--adw-headerbar-fg-rgb: 227, 166, 140 !important;
 	--adw-headerbar-border-rgb: 86, 56, 55 !important;
 	--adw-headerbar-backdrop-rgb: 28, 18, 19 !important;
 	--adw-headerbar-shade-rgb: 0, 0, 0 !important;
@@ -43,12 +43,12 @@
 
 	/* Split pane views */
 	--adw-sidebar-bg-rgb: 28, 18, 19 !important;
-	--adw-sidebar-fg-rgb: 168, 117, 105 !important;
+	--adw-sidebar-fg-rgb: 227, 166, 140 !important;
 	--adw-sidebar-backdrop-rgb: 58, 36, 37 !important;
 	--adw-sidebar-shade-rgb: 0, 0, 0 !important;
 	--adw-sidebar-shade-a: 0.36 !important;
 	--adw-secondary-sidebar-bg-rgb: 28, 18, 19 !important;
-	--adw-secondary-sidebar-fg-rgb: 168, 117, 105 !important;
+	--adw-secondary-sidebar-fg-rgb: 227, 166, 140 !important;
 	--adw-secondary-sidebar-backdrop-rgb: 58, 36, 37 !important;
 	--adw-secondary-sidebar-shade-rgb: 0, 0, 0 !important;
 	--adw-secondary-sidebar-shade-a: 0.36 !important;
@@ -56,17 +56,17 @@
 	/* Cards, boxed lists */
 	--adw-card-bg-rgb: 28, 18, 19 !important;
 	--adw-card-bg-a: 0.08 !important;
-	--adw-card-fg-rgb: 168, 117, 105 !important;
+	--adw-card-fg-rgb: 227, 166, 140 !important;
 	--adw-card-shade-rgb: 0, 0, 0 !important;
 	--adw-card-shade-a: 0.36 !important;
 
 	/* Dialogs */
 	--adw-dialog-bg-rgb: 28, 18, 19 !important;
-	--adw-dialog-fg-rgb: 168, 117, 105 !important;
+	--adw-dialog-fg-rgb: 227, 166, 140 !important;
 
 	/* Popovers */
 	--adw-popover-bg-rgb: 28, 18, 19 !important;
-	--adw-popover-fg-rgb: 168, 117, 105 !important;
+	--adw-popover-fg-rgb: 227, 166, 140 !important;
 	--adw-popover-shade-rgb: 0, 0, 0 !important;
 	--adw-popover-shade-a: 0.36 !important;
 

@@ -2,7 +2,7 @@ name: Aether
 accent: "#684c59"
 cursor: "#a87569"
 background: "#1c1213"
-foreground: "#a87569"
+foreground: "#e3a68c"
 details: darker
 
 terminal_colors:
