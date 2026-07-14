@@ -17,12 +17,12 @@
 @define-color magenta #a63650;
 @define-color cyan #6b6566;
 @define-color white #a87569;
-@define-color bright_black #3a2425;
-@define-color bright_red #a63650;
+@define-color bright_black #6d4745;
+@define-color bright_red #c24f57;
 @define-color bright_green #806c61;
 @define-color bright_yellow #f28171;
 @define-color bright_blue #684c59;
-@define-color bright_magenta #893f45;
+@define-color bright_magenta #a63650;
 @define-color bright_cyan #6b6566;
 @define-color bright_white #e3a68c;
 
@@ -45,8 +45,8 @@
 
 /* Adwaita Color Overrides */
 @define-color accent_bg_color @blue;
-@define-color accent_fg_color @bright_white;
-@define-color accent_color @cyan;
+@define-color accent_fg_color @background;
+@define-color accent_color @blue;
 
 @define-color window_bg_color @background;
 @define-color window_fg_color @foreground;
@@ -176,15 +176,13 @@
 /* Dim label */
 @define-color dim_label_color alpha(@foreground, 0.55);
 
-
 /* SVG Icons - recolor to match foreground text */
 .svg-icon {
-    filter: invert(79%) sepia(18%) saturate(611%) hue-rotate(192deg)
-        brightness(103%) contrast(94%);
+	filter: invert(79%) sepia(18%) saturate(611%) hue-rotate(192deg)
+		brightness(103%) contrast(94%);
 }
 
 /* Sharp corners, Hyprland-inspired */
 * {
-    border-radius: 0;
+	border-radius: 0;
 }
-
